@@ -1,0 +1,117 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+body {
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+
+#status {
+    position: absolute;
+    font-size: 30px;
+    padding: 35px 0 0 40px;
+}
+
+#connexion_button {
+    font-size: 30px;
+    padding: 35px 0 0 380px;
+    cursor: pointer;
+}
+
+#title {
+    all: unset;
+    display: flex;
+    justify-content: center;  
+    align-items: center;    
+    height: 80%;          
+    margin: 0;
+    font-size: 96px;
+}
+
+#content {
+    height: 93%;
+    position: relative;
+}
+
+.progress{
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+#main {
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    margin: 50px;
+    position: relative;
+    height: 60vh;
+    display: none;
+}
+
+img {
+    position: absolute; /* Allow them to overlap */
+    transition: all 0.3s ease; 
+}
+
+#wall {
+    height: 100%;
+}
+
+
+#pickaxe {
+    height:65%;
+    transform: translateX(-50%);
+    transition: transform 50ms ease;
+    transform-origin: bottom left;
+}
+
+#safe_out {
+    height: 100%;
+}
+
+#safe_in {
+    height: 60%;
+    transition: transform 50ms ease;
+}
+
+#safe_open {
+    height: 60%;
+    display: none;
+}
+
+#sun {
+    height: 120%;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    font-size: 24px; 
+    padding: 35px 0 0 0;
+}
+
+#p1 {
+    cursor: pointer;
+}
+
+#p2 {
+    cursor: pointer;
+}
+
+#p3 {
+    cursor: pointer;
+}
+
+#p4 {
+    cursor: pointer;
+}
+
+
+
