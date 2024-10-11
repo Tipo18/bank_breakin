@@ -21,3 +21,8 @@ I would like to thank both **Louis** for their help and guidance throughout the 
 ## **Contact and Feedback**
 
 Thank you for taking an interest in my project! If you have any questions, feedback, or would like to connect, please don't hesitate to reach out. I'd be happy to discuss or answer questions you may have.
+
+## **Links**
+
+ -  **Demo video** : https://youtu.be/J3Lk4DXbNto?si=1T6I0-Eu8Lvpx1CM
+ - **Figma**: https://www.figma.com/design/l9B3uxhctq3lRZqETBZT51/workshop_ui?m=auto&t=T4N9vERUIRukxlfu-1
